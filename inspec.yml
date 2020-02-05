@@ -1,0 +1,12 @@
+---
+name: cis-centos7-level1
+title: CIS CentOS Linux 7 Benchmark Level 1
+summary: CIS CentOS Linux 7 Benchmark Level 1 translated from SCAP
+version: 1.1.0-5
+maintainer: Chef Software, Inc.
+copyright: Chef Software, Inc.
+copyright_email: support@chef.io
+license: Proprietary, All rights reserved
+supports:
+- platform-name: centos
+  release: 7.*
